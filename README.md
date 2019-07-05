@@ -7,7 +7,7 @@ this is an h2
 --------------
 # 안녕
 ##  난 귀요미
-### 짜로?
+### 진짜로?
 > This is a blockqute
 
 * 빨강
