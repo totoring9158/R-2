@@ -58,3 +58,9 @@ __히히힛 호호 어 진짜 강조되네 와우~*
 ~이것도 강조 되네~
 ~~이거 하면 캔슬이구먼 ㅎㅎㅎ~~
 
+__이거 진짜 강조할꺼다__
+그니까 링크ㅣㅑㅡ
+link: [linkkey word 즉 google]
+[linkkeyword]: url(여기서는 주소입력) "옵션 타이틀" 여기서는뇨ㅜㅅ
+sntax:[go google](link)
+<img width="" height=""></img>
