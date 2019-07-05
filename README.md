@@ -39,3 +39,22 @@ this is an h2
 * * *
 - - - 
 -----------------
+[link keyword] [id]
+[id]: URL "Optional Title here"
+
+link:  [Google][googlelink] 
+[googlelink]:  https://google.com "Go google"
+
+syntax: [Title](link)
+
+<http://example.com/>
+<address@example.com>
+
+*이렇게 하면 글씨 기울여짐
+_이렇게 해볼까나
+**진짜 글씨 강조해본다**
+_히히힛 호호 나는야 탐험대
+__히히힛 호호 어 진짜 강조되네 와우~*
+~이것도 강조 되네~
+~~이거 하면 캔슬이구먼 ㅎㅎㅎ~~
+
